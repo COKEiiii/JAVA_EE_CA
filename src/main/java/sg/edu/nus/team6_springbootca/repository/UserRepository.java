@@ -1,4 +1,4 @@
-package sg.edu.nus.team6_springbootca.Repository;
+package sg.edu.nus.team6_springbootca.repository;
 
 import sg.edu.nus.team6_springbootca.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
